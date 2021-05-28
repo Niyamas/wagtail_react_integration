@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\moogl\\.virtualenvs\\wagtail_react_integration-gxOOApL0\\Scripts\\python.exe",
+    "emmet.includeLanguages": {
+        "django-html": "html",
+    },
+    "files.associations": {
+        "*.js": "javascriptreact"
+    }
+}
