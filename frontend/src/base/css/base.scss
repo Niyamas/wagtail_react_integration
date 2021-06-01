@@ -52,15 +52,15 @@ ul {
 // From Traversy Media: https://www.youtube.com/watch?v=w7ejDZ8SWv8
 // Code: https://github.com/bradtraversy/react-crash-2021/blob/master/src/index.css
 .container {
-    max-width: 500px;
-    margin: 30px auto;
-    overflow: auto;
-    min-height: 300px;
-    border: 1px solid steelblue;
-    padding: 30px;
-    border-radius: 5px;
-}
-
+	max-width: 500px;
+	margin: 30px auto;
+	overflow: auto;
+	min-height: 300px;
+	border: 1px solid steelblue;
+	padding: 30px;
+	border-radius: 5px;
+  }
+  
 .header {
 	display: flex;
 	justify-content: space-between;
@@ -95,7 +95,7 @@ ul {
 	width: 100%;
 }
 
-.task {
+/* .task {
 	background: #f4f4f4;
 	margin: 5px;
 	padding: 10px 20px;
@@ -110,7 +110,7 @@ ul {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-}
+} */
 
 .add-form {
 	margin-bottom: 40px;
